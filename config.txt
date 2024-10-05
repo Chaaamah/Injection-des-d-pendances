@@ -1,2 +1,2 @@
-ext.DaoImplVWS
-metier.MetierImpl
+ext.DaoImpl2
+dao.DaoImp
