@@ -68,4 +68,3 @@ les dépendances sans avoir besoin de fichier XML, ce qui simplifie la configura
 <img src="CAPTURES/Res1.png">
 <h2>Diagramme de classe: </h2>
 <img src="CAPTURES/Diagramme.png">
-
